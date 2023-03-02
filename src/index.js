@@ -1,5 +1,5 @@
 import fetch from 'node-fetch';
-const api_key = ''; //cambia el api_key por otro que te sirva, pero tarda dos horas en activarse
+const api_key = '8ef856b0ae6f808f231b0014a93dfaa8'; //cambia el api_key por otro que te sirva, pero tarda dos horas en activarse
 
 console.log("Ciudad: "); //Introucción de ciudad
 process.stdin.addListener("data", async (location) => {
